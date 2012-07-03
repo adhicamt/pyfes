@@ -176,16 +176,6 @@ SenseiDB または elasticsearch または SolrCloud (未定)
 定期プレゼン
 ============
 
-@ryushi
--------
-
-**打診予定**
-Project Koshinuke
-
-@lanius
--------
-koshinuke.py update
-
 @hiroki_ninuma
 --------------
 
