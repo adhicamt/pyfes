@@ -6,6 +6,7 @@ Python Developers Festa 2012.07
 ====
 
 - LXC ネタで発表したい人
+- rackhub を使ったハンズオンをしたい人
 
 概要
 ====
